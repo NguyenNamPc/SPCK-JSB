@@ -1,0 +1,119 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.nav {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+.right{
+    display: flex;
+    margin-right: 200px;
+}
+#navbar-item{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+
+.navbar-item {
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+}
+
+.navbar-item:hover {
+    background-color: white;
+    color: coral;
+
+}
+
+.anh{
+    display: flex;
+    margin: 35px 0px 25px 40px;
+}
+
+.pic{
+    width: 480px;
+    height: 580px;
+    width: 50%;
+    padding: 10px 10px;
+    border: 1px solid white;
+    box-shadow: 30px 20px 30px rgba(0, 0, 0, 0.06);
+}
+
+.i{
+    margin-left: 40px;
+}
+
+.dathang{
+    margin-top: 70px;
+    margin-left: 40px;
+    padding: 5px 220px 5px 220px;
+    background-color: #E57905;
+    color: white;
+    border-radius: 10px;
+}
+
+.h{
+    margin-top: 60px;
+    margin-left: 40px
+
+}
+.colorfont{
+    color: #E57905;
+    margin-top: 10px;
+}
+
+.moi{
+    width: 60%;
+    margin: auto;
+}
+.moi1{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.chu{
+    color: grey;
+    margin-top: 5px;
+}
+.mau_nen{
+    background-color: white;
+    padding: 8px 20px 8px 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 7px;
+}
+.mau_chu{
+    color: gray;
+}
+#cuoitrang{
+    background-color: #000000D9;
+    color: white;
+    padding: 20px 0 30px;
+   
+}
+.footer{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-bottom: 10px;
+   width: 60%;
+   padding: 0 430px;
+}
+
+.title{
+    padding-bottom: 10px;
+}
+
+.end{
+    padding-top: 20px;
+    margin-left: 430px;
+}
